@@ -6,6 +6,8 @@ Many repositories are designed for reuse and adaptation by __researchers, studen
 ##Open-source Learning Materials
 CEGA produces templates, digital textbooks, and workshops to democratize access to the skills needed to conduct rigorous social science research that can inform decision-making in low- and middle-income countries. You can explore many of our learning resources below; we encourage instructors to incorporate these into their courses. 
 
+-[MOSAIKS Digital Textbook](https://center-for-effective-global-action-cega.github.io/MOSAIKS-Training-Manual/)
+
 ## Code-based tools and packages
 CEGA supports the general use of its code-based tools by other researchers and analysts working in the public sector and other social service providers. We encourage contributions via pull requests. If you have questions, you can contact the tool owner identified below.
 
