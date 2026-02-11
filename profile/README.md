@@ -3,7 +3,7 @@ We are the [Center for Effective Global Action (CEGA)](https://cega.berkeley.edu
 
 Many repositories are designed for reuse and adaptation by __researchers, students, and public-sector teams__, and reflect CEGA’s commitment to openness, reproducibility, and policy relevance. If you would like to include your CEGA-supported work in the resources below, please reach out to our Communications Manager Eeman Abbasi (eemanabbasi[at]berkeley[dot]edu).
 
-##Open-source Learning Materials
+## Open-source Learning Materials
 CEGA produces templates, digital textbooks, and workshops to democratize access to the skills needed to conduct rigorous social science research that can inform decision-making in low- and middle-income countries. You can explore many of our learning resources below; we encourage instructors to incorporate these into their courses. 
 
 -[MOSAIKS Digital Textbook](https://center-for-effective-global-action-cega.github.io/MOSAIKS-Training-Manual/)
