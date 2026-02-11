@@ -11,5 +11,7 @@ CEGA produces templates, digital textbooks, and workshops to democratize access 
 ## Code-based Tools and Packages
 CEGA supports the general use of its code-based tools by other researchers and analysts working in the public sector and other social service providers. We encourage contributions via pull requests. If you have questions, you can contact the tool owner identified below.
 
+-[Cider](https://github.com/Global-Opportunity-Lab/cider) - poverty prediction and targeting with mobile phone metadata.
+
 ## Replication Code for Research Projects
-Research project code must persist for replication purposes. It will not typically be updated following the publication of the corresponding research paper. We encourage faculty to incorporate replications of CEGA-supported studies into their methodology courses.
+We share research project code below for replication purposes. It will not typically be updated following the publication of the corresponding research paper. We encourage faculty to incorporate replications of CEGA-supported studies into their methodology courses.
