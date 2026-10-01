@@ -6,7 +6,7 @@ Many repositories are designed for reuse and adaptation by __researchers, studen
 ## Open-source Learning Materials
 CEGA produces templates, digital textbooks, and workshops to democratize access to the skills needed to conduct rigorous social science research that can inform decision-making in low- and middle-income countries. You can explore many of our learning resources below; we encourage instructors to incorporate these into their courses. 
 
--[MOSAIKS Training Manual](https://center-for-effective-global-action-cega.github.io/MOSAIKS-Training-Manual/) (2026) \\
+-[MOSAIKS Training Manual](https://center-for-effective-global-action-cega.github.io/MOSAIKS-Training-Manual/) (2026)  
 -[Geo4Dev Learning Modules](https://center-for-effective-global-action-cega.github.io/Geo4Dev/) (2026)
 
 ## Code-based Tools and Packages
